@@ -6,4 +6,7 @@ Requires admin
 
 Script is not signed  
 
-Write-Host is not applicable in intune scenario
+Write-Host is not applicable in intune scenario  
+
+
+See article on enablign LSA protection: https://itm4n.github.io/lsass-runasppl/  
