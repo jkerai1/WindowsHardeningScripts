@@ -9,4 +9,4 @@ Script is not signed
 Write-Host is not applicable in intune scenario  
 
 
-See article on enablign LSA protection: https://itm4n.github.io/lsass-runasppl/  
+See article on enabling LSA protection: https://itm4n.github.io/lsass-runasppl/  
