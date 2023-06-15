@@ -1,5 +1,5 @@
 # Define the registry key and value name
-$regPath= "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Ext"
+$regKey= "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Ext"
 $key0 = "VersionCheckEnabled"
 
 # Check if the value exists and is already set to 1
