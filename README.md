@@ -8,3 +8,5 @@ Write-Host is not applicable in intune scenario
 
 
 May need to comment in/out the "New-Item" if the key does not exist/Does already exist
+
+Some of this would be better done with GPO/Intune but if not applicable can use powershell script (e.g. LSA Protection)
