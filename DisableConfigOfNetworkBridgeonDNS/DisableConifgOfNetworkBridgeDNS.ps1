@@ -1,5 +1,5 @@
 # Define the registry key and value name
-$regPath= "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Network Connections"
+$regKey= "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Network Connections"
 $key0 = "NC_AllowNetBridge_NLA"
 
 # Check if the value exists and is already set to 0
