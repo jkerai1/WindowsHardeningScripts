@@ -1,5 +1,5 @@
 # Define the registry key and value name
-$regPath= "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
+$regKey= "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
 $key0 = "RestrictAnonymous"
 
 # Check if the value exists and is already set to 1
