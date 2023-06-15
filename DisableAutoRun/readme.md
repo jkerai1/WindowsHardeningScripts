@@ -1,0 +1,1 @@
+Disable autorun.inf files 
