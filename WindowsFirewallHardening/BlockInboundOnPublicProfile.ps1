@@ -1,0 +1,1 @@
+netsh advfirewall set publicprofile firewallpolicy blockinboundalways,allowoutbound
