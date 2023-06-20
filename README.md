@@ -11,4 +11,6 @@ May need to comment in/out the "New-Item" if the key does not exist/Does already
 
 Some of this would be better done with GPO/Intune but if not applicable can use powershell script (e.g. LSA Protection)
 
-Could even be deployed from Live Response (MDE) if unsigned powershell scripts are allowed as post compromise remediation 
+Could even be deployed from Live Response (MDE) if unsigned powershell scripts are allowed as post compromise remediation  
+
+Pull Requests Welcome 
