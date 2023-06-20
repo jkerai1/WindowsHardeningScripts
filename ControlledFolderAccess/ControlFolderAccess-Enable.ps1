@@ -13,7 +13,7 @@ try {
     New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard" ##if doesnt exist then create it 
     New-Item $regKey
     Set-ItemProperty -Path $regKey -Name $key0 -Value 1 -Type DWORD -Force
-    Write-Host "The value of '$key0' has been set to 1."
+    Write-Host "The value of '$key0' under $regKey has been set to 1."
 }
 
 catch {
