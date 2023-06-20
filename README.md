@@ -1,4 +1,4 @@
-useful Hardening Powershell Scripts to deploy from something like intune
+useful Hardening Powershell /cmd  Scripts to deploy from something like intune
 
 Requires admin  
 
