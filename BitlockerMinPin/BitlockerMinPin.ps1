@@ -13,7 +13,7 @@ try {
     # Set the value to 6
     #New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\FVE" ##if doesnt exist then create it 
     Set-ItemProperty -Path $regKey -Name $key0 -Value 6 -Type DWORD -Force
-    Write-Host "The value of '$key0' has been set to 6."
+    Write-Host "The value of '$key0' under $regPath has been set to 6."
 }
 
 catch {
