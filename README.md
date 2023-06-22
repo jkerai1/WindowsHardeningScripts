@@ -2,6 +2,8 @@
 
 Hardening Powershell /cmd  Scripts to deploy from something like intune
 
+Caution: Some scripts may brick your environment, review carefully 
+
 Requires admin as registry changes 
 
 Scripts are not signed 
