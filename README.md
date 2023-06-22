@@ -2,9 +2,9 @@
 
 useful Hardening Powershell /cmd  Scripts to deploy from something like intune
 
-Requires admin  
+Requires admin as registry changes 
 
-Script is not signed  
+Script is not signed  (duh)
 
 Write-Host is not applicable in intune scenario  
 
