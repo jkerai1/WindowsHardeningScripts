@@ -1,6 +1,6 @@
 # Windows Hardening  
 
-useful Hardening Powershell /cmd  Scripts to deploy from something like intune
+Hardening Powershell /cmd  Scripts to deploy from something like intune
 
 Requires admin as registry changes 
 
