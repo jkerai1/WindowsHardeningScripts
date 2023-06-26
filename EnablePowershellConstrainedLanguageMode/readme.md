@@ -2,7 +2,7 @@ What does Constrained Language constrain?
 
 Constrained Language consists of a number of restrictions that limit unconstrained code execution on a locked-down system. These restrictions are:
 
-    PowerShell module script files must explicitly export functions by name without the use of wildcard characters. This is to prevent inadvertently exposing powerful helper function not meant to be used publicly.  
+PowerShell module script files must explicitly export functions by name without the use of wildcard characters. This is to prevent inadvertently exposing powerful helper function not meant to be used publicly.  
     PowerShell module manifest files must explicitly export functions by name without the use of wildcards. Again, to prevent inadvertent exposure of functions.  
     COM objects are blocked. They can expose Win32 APIs that have likely never been rigorously hardened as part of an attack surface.  
     Only approved .NET types are allowed. Many .NET types can be used to invoke arbitrary Win32 APIs. As a result only specific whitelisted types are allowed.  
