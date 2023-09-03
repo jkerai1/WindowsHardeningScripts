@@ -2,3 +2,13 @@ https://learn.microsoft.com/en-us/windows/security/identity-protection/credentia
 
 
 Enable cred guard + LSA protection for strong LSASS Protection baseline  
+
+
+
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceGuard key: EnableVirtualizationBasedSecurity value: 1
+
+
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceGuard Key: RequirePlatformSecurityFeatures value: 3
+
+
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\LSA Key: LsaCfgFlags value: 1
