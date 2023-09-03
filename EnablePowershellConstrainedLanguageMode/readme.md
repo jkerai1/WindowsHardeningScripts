@@ -26,3 +26,5 @@ As we can see, Constrained Language mode imposes some significant restrictions o
   https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/  
 
   Will stop the Import-Module
+
+  Also see: https://notes.qazeer.io/windows/bypass_ps_constrainedlanguagemode
