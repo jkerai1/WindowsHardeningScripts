@@ -1,6 +1,8 @@
-![image](https://github.com/jkerai1/WindowsHardeningScripts/assets/55988027/887460f8-a1db-4532-9d73-8124fa332ba3)
+![image](https://github.com/jkerai1/WindowsHardeningScripts/assets/55988027/4aa82dd7-654f-45a4-ba4d-db80db53313f)
 
 
 # Ref
 
 https://chromeenterprise.google/policies/
+
+There are additional policies you want to enable/disable on a per org use case
