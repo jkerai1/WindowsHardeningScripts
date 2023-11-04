@@ -42,6 +42,6 @@ reg add "HKLM\Software\Policies\Google\Chrome" /v "BrowserSignin" /t REG_DWORD /
 reg add "HKLM\Software\Policies\Google\Chrome\Recommended" /v "RestoreOnStartup" /t REG_DWORD /d 1 /f
 reg add "HKLM\Software\Policies\Google\Chrome\Recommended" /v "TranslateEnabled" /t REG_DWORD /d 0 /f
 reg add "HKLM\Software\Policies\Google\Chrome\ExtensionAllowedTypes" /v "1" /t REG_SZ /d "extension" /f
-reg add "HKLM\Software\Policies\Google\Chrome\ExtensionAllowedTypes" /v "1" /t REG_SZ /d "platform_app" /f
-reg add "HKLM\Software\Policies\Google\Chrome\ExtensionAllowedTypes" /v "1" /t REG_SZ /d "hosted_app" /f
+reg add "HKLM\Software\Policies\Google\Chrome\ExtensionAllowedTypes" /v "2" /t REG_SZ /d "platform_app" /f
+reg add "HKLM\Software\Policies\Google\Chrome\ExtensionAllowedTypes" /v "3" /t REG_SZ /d "hosted_app" /f
 reg add "HKLM\Software\Policies\Google\Chrome\URLBlocklist" /v "1" /t REG_SZ /d "amsi.fail" /f
