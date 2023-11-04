@@ -36,6 +36,7 @@ reg add "HKLM\Software\Policies\Google\Chrome" /v "RemoteDebuggingAllowed" /t RE
 reg add "HKLM\Software\Policies\Google\Chrome" /v "UserFeedbackAllowed" /t REG_DWORD /d 0 /f
 reg add "HKLM\Software\Policies\Google\Chrome" /v "DNSInterceptionChecksEnabled" /t REG_DWORD /d 1 /f
 reg add "HKLM\Software\Policies\Google\Chrome" /v "AlternateErrorPagesEnabled" /t REG_DWORD /d 0 /f
+reg add "HKLM\Software\Policies\Google\Chrome" /v "BrowserSignin" /t REG_DWORD /d 0 /f
 reg add "HKLM\Software\Policies\Google\Chrome\Recommended" /v "RestoreOnStartup" /t REG_DWORD /d 1 /f
 reg add "HKLM\Software\Policies\Google\Chrome\Recommended" /v "TranslateEnabled" /t REG_DWORD /d 0 /f
 reg add "HKLM\Software\Policies\Google\Chrome\Recommended" /v "DefaultDownloadDirectory" /t REG_SZ /d "C:\Users\vibrio\Desktop" /f
