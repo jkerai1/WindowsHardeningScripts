@@ -5,4 +5,4 @@
 
 https://chromeenterprise.google/policies/
 
-There are additional policies you want to enable/disable on a per org use case
+There are additional policies you want to enable/disable on a per org use case like autoclick, audio capture, network sandbox, screenshot capture 
