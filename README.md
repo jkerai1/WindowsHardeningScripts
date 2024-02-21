@@ -1,3 +1,7 @@
+[![GitHub stars](https://img.shields.io/github/stars/jkerai1/WindowsHardeningScripts?style=flat-square)](https://github.com/jkerai1/WindowsHardeningScripts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jkerai1/WindowsHardeningScripts?style=flat-square)](https://github.com/jkerai1/WindowsHardeningScripts/network)
+[![GitHub issues](https://img.shields.io/github/issues/jkerai1/WindowsHardeningScripts?style=flat-square)](https://github.com/jkerai1/WindowsHardeningScripts/issues)
+[![GitHub pulls](https://img.shields.io/github/issues-pr/jkerai1/WindowsHardeningScripts?style=flat-square)](https://github.com/jkerai1/WindowsHardeningScripts/pulls)
 # Windows Hardening  
 
 Hardening Powershell /cmd  Scripts to deploy from something like intune
