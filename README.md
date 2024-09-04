@@ -4,7 +4,9 @@
 [![GitHub pulls](https://img.shields.io/github/issues-pr/jkerai1/WindowsHardeningScripts?style=flat-square)](https://github.com/jkerai1/WindowsHardeningScripts/pulls)
 # Windows Hardening  
 
-Hardening Powershell /cmd  Scripts to deploy from something like intune
+Hardening Powershell /cmd  Scripts to deploy from something like intune or even Live response library!  
+
+These scripts are ideal for deploying for sandboxes to test recommendations  
 
 Caution: Some scripts may brick your environment, review carefully 
 
