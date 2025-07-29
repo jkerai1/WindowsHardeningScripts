@@ -11,7 +11,7 @@ if ((Test-Path $regKey) -and (Get-ItemProperty $regKey -Name $key0 -ErrorAction 
 else {
 try {
     # Set the value to 6
-    #New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\FVE" ##if doesnt exist then create it 
+    New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\FVE" ##if doesnt exist then create it - may fail but script should continue
     Set-ItemProperty -Path $regKey -Name $key0 -Value 6 -Type DWORD -Force
     Write-Host "The value of '$key0' under $regPath has been set to 6."
 }
