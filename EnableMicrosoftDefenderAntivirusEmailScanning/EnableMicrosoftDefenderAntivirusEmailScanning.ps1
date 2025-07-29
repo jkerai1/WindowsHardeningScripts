@@ -1,0 +1,2 @@
+New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender\Scan" ##if doesnt exist then create it 
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender\Scan" -Name "DisableEmailScanning" -Value "0"
