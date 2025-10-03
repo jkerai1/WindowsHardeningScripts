@@ -3,4 +3,4 @@
   Windows script files usually have one of the following file name extensions: .wsf, .vbs, .js  
 
 
-  https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cscript
+  https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cscript?WT.mc_id=MVP_473477
