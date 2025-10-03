@@ -1,4 +1,4 @@
-https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage  
+https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage?WT.mc_id=MVP_473477  
 
 Enable cred guard + LSA protection for strong LSASS Protection baseline  
 
