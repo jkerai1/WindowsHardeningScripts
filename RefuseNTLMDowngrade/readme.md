@@ -6,7 +6,7 @@ Sets to level 5 :
 
 set as apprioprate  
 
-https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/network-security-lan-manager-authentication-level
+https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/network-security-lan-manager-authentication-level?WT.mc_id=MVP_473477
 
 
 LM should not be used under any circumstances and has been depreciated.  
