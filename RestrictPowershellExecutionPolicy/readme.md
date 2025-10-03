@@ -12,4 +12,4 @@ Machine Policy & User Policy Should be set by Group policy:
 
 # Reference
 
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3?WT.mc_id=MVP_473477
