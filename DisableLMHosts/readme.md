@@ -13,4 +13,4 @@ where LMHOSTs file is %SystemRoot%\System32\drivers\etc
 
 Lower chance of DNS poison attack  
 
-Ref: https://learn.microsoft.com/en-US/troubleshoot/windows-client/networking/tcpip-and-nbt-configuration-parameters
+Ref: https://learn.microsoft.com/en-US/troubleshoot/windows-client/networking/tcpip-and-nbt-configuration-parameters?WT.mc_id=MVP_473477
