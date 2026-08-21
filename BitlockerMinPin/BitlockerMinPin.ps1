@@ -1,7 +1,7 @@
 # Define the registry key and value name
 $regPath= "HKLM:\SOFTWARE\Policies\Microsoft"
 $regKey = "HKLM:\SOFTWARE\Policies\Microsoft\FVE"
-$key0 = "MinimiumPin"
+$key0 = "MinimumPin"
 
 # Check if the value exists and is already set to 6
 if ((Test-Path $regKey) -and (Get-ItemProperty $regKey -Name $key0 -ErrorAction SilentlyContinue).$key0 -eq 6) {
